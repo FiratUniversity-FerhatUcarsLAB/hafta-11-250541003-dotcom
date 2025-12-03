@@ -21,3 +21,8 @@ public class Exercise4_2 {
         }
     }
 }
+cıktısı
+ik
+rattle
+ping zoop
+boo -wa-ha-ha
