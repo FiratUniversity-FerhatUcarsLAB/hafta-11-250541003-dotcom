@@ -25,3 +25,28 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+
+/*
+=========================== ANSWERS ===========================
+
+1) zoop metodu ikinci kez çağrıldığında stack diyagramı:
+
+    ┌──────────────┐
+    │ zoop()       │  ← ikinci çağrı
+    ├──────────────┤
+    │ clink()      │
+    ├──────────────┤
+    │ main()       │
+    └──────────────┘
+
+--------------------------------------------------------------
+
+2) Program Çıktısı:
+
+just for
+any not more 
+It's breakfast 
+!
+
+==============================================================
+*/
