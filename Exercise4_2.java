@@ -21,7 +21,7 @@ public class Exercise4_2 {
         }
     }
 }
-cıktısı
+ program cıktısı
 ik
 rattle
 ping zoop
